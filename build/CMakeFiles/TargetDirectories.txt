@@ -1,0 +1,5 @@
+/media/bansal/cllg/License_Server/build/CMakeFiles/license_server.dir
+/media/bansal/cllg/License_Server/build/CMakeFiles/license_client.dir
+/media/bansal/cllg/License_Server/build/CMakeFiles/client_app.dir
+/media/bansal/cllg/License_Server/build/CMakeFiles/edit_cache.dir
+/media/bansal/cllg/License_Server/build/CMakeFiles/rebuild_cache.dir

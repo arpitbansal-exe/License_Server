@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/media/bansal/cllg/License_Server/build",
+  "command": "/usr/bin/g++  -I/media/bansal/cllg/License_Server/client -g -std=gnu++17 -o CMakeFiles/license_server.dir/server/main.cpp.o -c /media/bansal/cllg/License_Server/server/main.cpp",
+  "file": "/media/bansal/cllg/License_Server/server/main.cpp",
+  "output": "CMakeFiles/license_server.dir/server/main.cpp.o"
+},
+{
+  "directory": "/media/bansal/cllg/License_Server/build",
+  "command": "/usr/bin/g++  -I/media/bansal/cllg/License_Server/client -g -std=gnu++17 -o CMakeFiles/license_server.dir/server/tls_server.cpp.o -c /media/bansal/cllg/License_Server/server/tls_server.cpp",
+  "file": "/media/bansal/cllg/License_Server/server/tls_server.cpp",
+  "output": "CMakeFiles/license_server.dir/server/tls_server.cpp.o"
+},
+{
+  "directory": "/media/bansal/cllg/License_Server/build",
+  "command": "/usr/bin/g++  -I/media/bansal/cllg/License_Server/client -g -std=gnu++17 -o CMakeFiles/license_server.dir/server/db_manager.cpp.o -c /media/bansal/cllg/License_Server/server/db_manager.cpp",
+  "file": "/media/bansal/cllg/License_Server/server/db_manager.cpp",
+  "output": "CMakeFiles/license_server.dir/server/db_manager.cpp.o"
+},
+{
+  "directory": "/media/bansal/cllg/License_Server/build",
+  "command": "/usr/bin/g++  -I/media/bansal/cllg/License_Server/client -g -std=gnu++17 -o CMakeFiles/license_server.dir/server/license_handler.cpp.o -c /media/bansal/cllg/License_Server/server/license_handler.cpp",
+  "file": "/media/bansal/cllg/License_Server/server/license_handler.cpp",
+  "output": "CMakeFiles/license_server.dir/server/license_handler.cpp.o"
+},
+{
+  "directory": "/media/bansal/cllg/License_Server/build",
+  "command": "/usr/bin/g++ -Dlicense_client_EXPORTS -I/media/bansal/cllg/License_Server/client -g -std=gnu++17 -fPIC -o CMakeFiles/license_client.dir/client/tls_client.cpp.o -c /media/bansal/cllg/License_Server/client/tls_client.cpp",
+  "file": "/media/bansal/cllg/License_Server/client/tls_client.cpp",
+  "output": "CMakeFiles/license_client.dir/client/tls_client.cpp.o"
+},
+{
+  "directory": "/media/bansal/cllg/License_Server/build",
+  "command": "/usr/bin/g++  -I/media/bansal/cllg/License_Server/client -g -std=gnu++17 -o CMakeFiles/client_app.dir/client/main.cpp.o -c /media/bansal/cllg/License_Server/client/main.cpp",
+  "file": "/media/bansal/cllg/License_Server/client/main.cpp",
+  "output": "CMakeFiles/client_app.dir/client/main.cpp.o"
+},
+{
+  "directory": "/media/bansal/cllg/License_Server/build",
+  "command": "/usr/bin/g++  -I/media/bansal/cllg/License_Server/client -g -std=gnu++17 -o CMakeFiles/client_app.dir/client/tls_client.cpp.o -c /media/bansal/cllg/License_Server/client/tls_client.cpp",
+  "file": "/media/bansal/cllg/License_Server/client/tls_client.cpp",
+  "output": "CMakeFiles/client_app.dir/client/tls_client.cpp.o"
+},
+{
+  "directory": "/media/bansal/cllg/License_Server/build",
+  "command": "/usr/bin/g++  -I/media/bansal/cllg/License_Server/client -g -std=gnu++17 -o CMakeFiles/client_app.dir/client/licence.cpp.o -c /media/bansal/cllg/License_Server/client/licence.cpp",
+  "file": "/media/bansal/cllg/License_Server/client/licence.cpp",
+  "output": "CMakeFiles/client_app.dir/client/licence.cpp.o"
+}
+]

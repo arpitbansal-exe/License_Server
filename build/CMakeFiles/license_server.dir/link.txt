@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/license_server.dir/server/main.cpp.o CMakeFiles/license_server.dir/server/tls_server.cpp.o CMakeFiles/license_server.dir/server/db_manager.cpp.o CMakeFiles/license_server.dir/server/license_handler.cpp.o -o license_server  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libsqlite3.so 

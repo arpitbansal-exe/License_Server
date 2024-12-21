@@ -1,0 +1,9 @@
+
+
+
+//Test connection
+openssl s_client -connect 127.0.0.1:8443
+
+
+//Dump network Traffic
+sudo tcpdump -i any port 443

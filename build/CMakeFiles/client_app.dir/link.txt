@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/client_app.dir/client/main.cpp.o CMakeFiles/client_app.dir/client/tls_client.cpp.o CMakeFiles/client_app.dir/client/licence.cpp.o -o client_app  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
